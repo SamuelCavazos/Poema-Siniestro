@@ -5,4 +5,10 @@ El mar es azul
 El cielo es azul
 Mi playera es azul
 
+La tierra es redonda
+La pelota es redonda
+La señora es redonda
+Mi panza es redonda.
+
+
 Fin.
